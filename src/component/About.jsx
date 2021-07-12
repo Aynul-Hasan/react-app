@@ -4,7 +4,7 @@ import "../../node_modules/bootstrap/dist/css/bootstrap.min.css"
 export const About=()=> {
     return (
         <>
-          <div className="container">
+          <div className="container con-1">
             <div className="row">
                 <div className="col-lg-6">
                     <img src="/img/man.png" className='img-fluid' alt="" /> 

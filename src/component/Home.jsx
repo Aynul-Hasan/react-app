@@ -6,7 +6,7 @@ import "../../node_modules/bootstrap/dist/css/bootstrap.min.css"
 export const Home = () => {
     return (
         <>
-         <div className="container">
+         <div className="container con-1">
              <div className="row mt-5">
                  <div className="col-lg-6 my-auto">
                           <h4 class="my-5">Welcome to weather app </h4>

@@ -6,9 +6,15 @@
 .con{
   height: 70vh;
 }
+.con-1{
+  height: 80vh;
+}
 @media (max-width:665px) {
   .con{
     height: 50vh;
+  }
+  .con-1{
+    height: 100vh;
   }
 }
 /* icons css */
